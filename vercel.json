@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/ws/:path*", "destination": "https://crossing-sufficient-secondary-governor.trycloudflare.com/fast-game:path*" }
+  ]
+}
